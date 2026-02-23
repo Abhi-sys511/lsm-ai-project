@@ -1,0 +1,8 @@
+{
+  "/(app)/courses/[slug]/page": "app/(app)/courses/[slug]/page.js",
+  "/(app)/dashboard/page": "app/(app)/dashboard/page.js",
+  "/(app)/lessons/[courseSlug]/[lessonSlug]/page": "app/(app)/lessons/[courseSlug]/[lessonSlug]/page.js",
+  "/(app)/page": "app/(app)/page.js",
+  "/(app)/pricing/page": "app/(app)/pricing/page.js",
+  "/api/chat/route": "app/api/chat/route.js"
+}

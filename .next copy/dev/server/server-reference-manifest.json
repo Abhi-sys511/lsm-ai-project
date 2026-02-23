@@ -1,0 +1,452 @@
+{
+  "node": {
+    "7f3370662f9840e397e804a52cac6675cd3c89c161": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/(app)/pricing/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/pricing/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "rsc",
+        "app/(app)/dashboard/page": "rsc",
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "rsc",
+        "app/(app)/page": "rsc",
+        "app/(app)/pricing/page": "rsc"
+      },
+      "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js",
+      "exportedName": "collectKeylessMetadata"
+    },
+    "7fba7120f5d1be09ffed508da233993dd9df5c9910": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/(app)/pricing/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/pricing/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "rsc",
+        "app/(app)/dashboard/page": "rsc",
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "rsc",
+        "app/(app)/page": "rsc",
+        "app/(app)/pricing/page": "rsc"
+      },
+      "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js",
+      "exportedName": "formatMetadataHeaders"
+    },
+    "7f29956a760e0c20d0390eeb688265e8f707c6eba6": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/pricing/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/pricing/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "action-browser",
+        "app/(app)/dashboard/page": "action-browser",
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "action-browser",
+        "app/(app)/page": "action-browser",
+        "app/(app)/pricing/page": "action-browser"
+      },
+      "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
+      "exportedName": "detectKeylessEnvDriftAction"
+    },
+    "7f4a905ff38649a01349a9bcfa11876d4d65d0cb3a": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/pricing/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/pricing/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "action-browser",
+        "app/(app)/dashboard/page": "action-browser",
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "action-browser",
+        "app/(app)/page": "action-browser",
+        "app/(app)/pricing/page": "action-browser"
+      },
+      "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
+      "exportedName": "createOrReadKeylessAction"
+    },
+    "7f5860dfda323de5e172ff06463444be98676aff5d": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/pricing/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/pricing/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "action-browser",
+        "app/(app)/dashboard/page": "action-browser",
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "action-browser",
+        "app/(app)/page": "action-browser",
+        "app/(app)/pricing/page": "action-browser"
+      },
+      "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
+      "exportedName": "deleteKeylessAction"
+    },
+    "7fae04f5b258f1ae14eb50ab45c4fb14030a513fd7": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/(app)/pricing/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/pricing/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "action-browser",
+        "app/(app)/dashboard/page": "action-browser",
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "action-browser",
+        "app/(app)/page": "action-browser",
+        "app/(app)/pricing/page": "action-browser"
+      },
+      "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
+      "exportedName": "syncKeylessConfigAction"
+    },
+    "7fe0c084138fd7d66858601db81d9fc0b4f8cbba6a": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "revalidateSyncTags",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "revalidateSyncTags",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        },
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "revalidateSyncTags",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "revalidateSyncTags",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        },
+        "app/(app)/pricing/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/pricing/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "revalidateSyncTags",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "action-browser",
+        "app/(app)/dashboard/page": "action-browser",
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "action-browser",
+        "app/(app)/page": "action-browser",
+        "app/(app)/pricing/page": "action-browser"
+      },
+      "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js",
+      "exportedName": "revalidateSyncTags"
+    },
+    "7fe61e11670d76f08d4780e344b6eba39f8a6c3774": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        },
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        },
+        "app/(app)/pricing/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/pricing/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "action-browser",
+        "app/(app)/dashboard/page": "action-browser",
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "action-browser",
+        "app/(app)/page": "action-browser",
+        "app/(app)/pricing/page": "action-browser"
+      },
+      "filename": "node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js",
+      "exportedName": "invalidateCacheAction"
+    },
+    "7f1dcb960f135bec33e477b732b0f56587a4512743": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "setPerspectiveCookie",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "setPerspectiveCookie",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        },
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "setPerspectiveCookie",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "setPerspectiveCookie",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        },
+        "app/(app)/pricing/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/pricing/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "setPerspectiveCookie",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "action-browser",
+        "app/(app)/dashboard/page": "action-browser",
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "action-browser",
+        "app/(app)/page": "action-browser",
+        "app/(app)/pricing/page": "action-browser"
+      },
+      "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js",
+      "exportedName": "setPerspectiveCookie"
+    },
+    "70022df242e6b4ae78119d775df53ac7cee1a4d4d8": {
+      "workers": {
+        "app/(app)/courses/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/courses/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "toggleCourseCompletion",
+          "filename": "lib/actions/courses.ts"
+        },
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "toggleCourseCompletion",
+          "filename": "lib/actions/courses.ts"
+        },
+        "app/(app)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/courses.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "toggleCourseCompletion",
+          "filename": "lib/actions/courses.ts"
+        }
+      },
+      "layer": {
+        "app/(app)/courses/[slug]/page": "action-browser",
+        "app/(app)/dashboard/page": "action-browser",
+        "app/(app)/page": "action-browser"
+      },
+      "filename": "lib/actions/courses.ts",
+      "exportedName": "toggleCourseCompletion"
+    },
+    "40ae8cc7178bc677da65bf6e5429b3233c2b8dfab1": {
+      "workers": {
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getMuxSignedTokens",
+          "filename": "lib/actions/mux.ts"
+        }
+      },
+      "layer": {
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "action-browser"
+      },
+      "filename": "lib/actions/mux.ts",
+      "exportedName": "getMuxSignedTokens"
+    },
+    "4084c25158262fadd45279e013b5fd3001dd88113e": {
+      "workers": {
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/lessons/[courseSlug]/[lessonSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.35.5_next@1_ef331193877ca8c73929ae559bbef26d/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/lib/actions/mux.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/lib/actions/summarize.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "summarizeVideo",
+          "filename": "lib/actions/summarize.ts"
+        }
+      },
+      "layer": {
+        "app/(app)/lessons/[courseSlug]/[lessonSlug]/page": "action-browser"
+      },
+      "filename": "lib/actions/summarize.ts",
+      "exportedName": "summarizeVideo"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "wwvigkf2OldcREGSonpW9Iu8g+YHoRyjjZEEtXCOjqk="
+}

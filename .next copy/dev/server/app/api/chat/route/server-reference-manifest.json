@@ -1,0 +1,35 @@
+{
+  "node": {
+    "7fe0c084138fd7d66858601db81d9fc0b4f8cbba6a": {
+      "workers": {
+        "app/api/chat/route": {
+          "moduleId": "[project]/.next-internal/server/app/api/chat/route/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "revalidateSyncTags",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        }
+      },
+      "layer": {
+        "app/api/chat/route": "action-browser"
+      },
+      "exportedName": "revalidateSyncTags",
+      "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+    },
+    "7f1dcb960f135bec33e477b732b0f56587a4512743": {
+      "workers": {
+        "app/api/chat/route": {
+          "moduleId": "[project]/.next-internal/server/app/api/chat/route/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "setPerspectiveCookie",
+          "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+        }
+      },
+      "layer": {
+        "app/api/chat/route": "action-browser"
+      },
+      "exportedName": "setPerspectiveCookie",
+      "filename": "node_modules/.pnpm/next-sanity@11.6.10_@emotio_6b58c2b350cc127b1c80dca917ec97bd/node_modules/next-sanity/dist/live/server-actions/index.js"
+    }
+  },
+  "edge": {}
+}

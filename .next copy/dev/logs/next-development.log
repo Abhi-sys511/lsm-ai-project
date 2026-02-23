@@ -1,0 +1,7 @@
+[00:00:02.382] Server  LOG      ✓ Ready in 1813ms
+[00:00:09.111] Server  LOG      ○ Compiling / ...
+[00:00:13.667] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:13.795] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:13.926] Browser INFO    Sanity is live with automatic revalidation of published content
+[00:01:10.098] Server  LOG      ○ Compiling /lessons/[courseSlug]/[lessonSlug] ...
+[00:01:23.196] Browser WARN    Media Chrome: No style sheet found on style tag of {}
