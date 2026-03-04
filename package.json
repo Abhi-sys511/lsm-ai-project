@@ -7,7 +7,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "NEXT_PUBLIC_SANITY_TYPEGEN_SKIP=true next build",
     "start": "next start",
     "lint": "biome check",
     "format": "biome format --write",
